@@ -1,9 +1,11 @@
-var animal = 'dog'
+
 
 function myAnimal() {
   var animal = "cat"
   return animal
 }
+
+var animal = 'dog'
 
 function yourAnimal() {
   // How can we make sure that this function
@@ -12,7 +14,7 @@ function yourAnimal() {
   return animal
 }
 
-animal
+
 
 function add2(n) {
   return n + two
